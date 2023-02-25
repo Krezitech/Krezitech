@@ -1,6 +1,6 @@
 # Welcome to krezitech :wave: 
 
-![ ](http://4.bp.blogspot.com/-fVxTHe30Hgo/TxwTO4Lm-CI/AAAAAAAAAbU/7-bDK3Yby6U/s1600/Fondochicofinalfinal.jpg "Krezitech")
+![ ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Qunqjyt6aK5IvDXrxFvODidEvo3YqePEHcU2rQoX4OcudPYgLtdrP6Gdxaj_D0gTRYtjcTP5bBepEuw3Ku1zVh9L_Jt8RSknKVZ694La6gTBC2NL_aemJWhkr4L-LzEheO1579Gb4rkTIfxjtts0RnRhL4nHMVfpCHBeDD4aAxUb1o491q2e4tTJZA/s1388/Fondochicofinalfinal.png "Krezitech")
 
 I am a Mechatronics engineer :sunglasses: who has done career on telecommunications :iphone:, but as a hobby and hopefully in a non-distant future :crystal_ball:, will be a developer and a great programmer :computer:. 
 
