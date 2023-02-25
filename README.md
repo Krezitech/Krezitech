@@ -10,4 +10,4 @@ You might find my current knowledge basic, but here I will be able to keep track
 
 So far I have the foundations of:
 
-![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion-Github\todos.png)
+![ ](https://www.dropbox.com/s/z1yf7ezl987aadk/todos.png?dl=0)
