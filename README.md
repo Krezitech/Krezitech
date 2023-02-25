@@ -9,5 +9,4 @@ So at the moment I am still learning :blue_book: all the foundations to get my d
 You might find my current knowledge basic, but here I will be able to keep track of my improvement :chart_with_upwards_trend:, please feel free to come back once in a while to check it out with me.
 
 So far I have the foundations of:
-
 ![ ](https://www.dropbox.com/s/z1yf7ezl987aadk/todos.png?dl=0 "Lenguajes")
