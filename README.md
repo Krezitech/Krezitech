@@ -10,4 +10,4 @@ You might find my current knowledge basic, but here I will be able to keep track
 
 So far I have the foundations of:
 
-![ ](https://www.dropbox.com/s/z1yf7ezl987aadk/todos.png?dl=0)
+![ ](https://www.dropbox.com/home/Programacion/Markdown/Presentacion-Github#)
