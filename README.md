@@ -13,4 +13,4 @@ So far I have the foundations of:
 ![2](https://www.dropbox.com/s/gbepyid69ztouki/todos.png?dl=0  "Lenguajes")
 
 ![3](https://www.dropbox.com/s/gbepyid69ztouki/todos.png?dl=0)
-![4](https://www.dropbox.com/s/gbepyid69ztouki/todos.png?dl=0 "Lenguajes)
+![4](https://www.dropbox.com/s/gbepyid69ztouki/todos.png?dl=0 "Lenguajes")
