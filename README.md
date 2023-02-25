@@ -1,4 +1,4 @@
-# Welcome to krezitech :D 
+# Welcome to krezitech :wave: 
 
 ![ ](http://4.bp.blogspot.com/-fVxTHe30Hgo/TxwTO4Lm-CI/AAAAAAAAAbU/7-bDK3Yby6U/s1600/Fondochicofinalfinal.jpg "Krezitech")
 
@@ -8,8 +8,4 @@ So at the moment I am still learning all the foundations to get my dream come tr
 You might find my current knowledge basic, but here I will be able to keep track of my improvement, please feel free to come back once in a while to check it out with me.
 
 So far I have the foundations of:
-
-![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion Github\git.png)
-![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion Github\github.png)
-![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion Github\htmlcss.png)
-![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion Github\python.png)
+![ ](C:\Users\Kreziped\Dropbox\Programacion\Markdown\Presentacion-Github\todos.png)
